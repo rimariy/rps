@@ -1,0 +1,54 @@
+body{
+    background-image: url("Rockpaperscissorspattern.jfif");
+    background-repeat:repeat;
+    background-origin: content-box;
+
+
+}
+.hh{
+    background-color: #fbe9de;
+    
+}
+.hhh{
+    background-color: #fbe9de;
+    border-radius: 3%;
+    margin: 15px;
+    margin-top: 35px;
+    box-shadow: 5px 5px 5px 5px #e4b9a6
+    ;
+    
+}
+.psrimgb{
+    border-radius: 50%;
+    height: 190px;
+    width: 190px;
+    margin: 10px;
+}
+.psrimg{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+}
+.divuc{
+    color:#3ec9bf;
+
+    
+}
+.user{
+ 
+    color:#214946;
+
+
+}
+.comp{
+
+    color:#214946;
+
+
+}
+.nch{
+    font-family: 'Roboto Mono', monospace;
+}
+
+
